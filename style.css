@@ -118,8 +118,8 @@ border-bottom: 3px solid crimson;
 }
 
 .right-side{
-    max-width: 600px;
-    max-height: 600px;
+    max-width: 480px;
+    max-height: 480px;
 }
 
 .right-side img{
@@ -207,11 +207,11 @@ gap: 10px;
 }
 
 #sec-3 .left h1{
-    font-size: 80px;
+    font-size: 70px;
 }
 
 #sec-3 .left p{
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 18px;
     font-weight: 300;
 }
@@ -221,7 +221,7 @@ gap: 10px;
     padding: 10px;
     border-radius: 4px;
     font-weight: 700;
-    margin-top: 50px;
+    margin-top: 20px;
     cursor: pointer;
     border: none;
     transition: background-color 0.4s, color 0.4s;
@@ -285,9 +285,9 @@ small{
     }
 
     .left-side{
-        margin-top: 50px;
+        margin-top: 50px; 
     }
-
+    
     .right-side{
         max-width: 180px;
         max-height: 180px;
@@ -299,7 +299,7 @@ small{
         flex-direction: column;
     }
     #sec-3 .left{
-        margin-top: 80px;
+        margin-top: 90px;
     }
 
     #sec-3 .right{
@@ -309,6 +309,5 @@ small{
     .card:nth-child(2){
         align-self: center;
     }
-
    
 }
