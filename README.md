@@ -3,3 +3,4 @@
 <h2>HTML ve CSS ile yapılmıştır</h2>
 <h3>Ekran Görüntüsü</h3>
 ![](Screen.gif)
+<img src="Screen.gif"/>
