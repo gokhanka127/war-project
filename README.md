@@ -5,4 +5,4 @@ Responsive bir web sayafasıdır.
 
 <h2>HTML ve CSS ile hazırlandı.</h2>
 <h3>Ekran Görüntüsü</h3>
-![](Screen-min.gif)
+![](Screen.gif)
